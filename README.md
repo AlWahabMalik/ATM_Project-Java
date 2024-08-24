@@ -21,7 +21,7 @@ Registration and Login: Create new customer accounts and securely log in with yo
 
 **Components (Classes)**
 
-**AtmProjectGUI.java:**   The core graphical user interface of the ATM system, allowing users to interact with their accounts via a Swing-based UI.
+**AtmProjectGUI.java:**  This is a main class. The core graphical user interface of the ATM system, allowing users to interact with their accounts via a Swing-based UI.
 
 **Address.java:**   Represents the address details of the customer.
 
